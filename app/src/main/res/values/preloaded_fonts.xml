@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/chonburi</item>
+        <item>@font/coiny</item>
+        <item>@font/diplomata</item>
+        <item>@font/frijole</item>
+        <item>@font/rammetto_one</item>
+        <item>@font/slackey</item>
+    </array>
+</resources>
